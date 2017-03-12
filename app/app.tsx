@@ -16,7 +16,7 @@ export default class App extends React.Component<any,any> {
                     Welcome to React Native!
                 </Text>
                 <Text style={styles.instructions}>
-                    To get started, go eat some cake.
+                    To get started, go eat some cake dude.
                 </Text>
                 <Text style={styles.instructions}>
                     Double tap R on your keyboard to reload,{'\n'}
